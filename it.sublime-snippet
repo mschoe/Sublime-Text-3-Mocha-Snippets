@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+it('${1:should do...}', function(${2:done}) {
+
+  // when
+  ${3:}
+
+  // then
+
+});
+]]></content>
+    <tabTrigger>it</tabTrigger>
+    <scope>source.js</scope>
+    <description>it() testing</description>
+</snippet>
