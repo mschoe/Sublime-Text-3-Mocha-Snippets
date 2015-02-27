@@ -6,7 +6,7 @@ it('${1:should do...}', function(${2:done}) {
   ${3:}
 
   // then
-
+  ${4:}
 });
 ]]></content>
     <tabTrigger>it</tabTrigger>
