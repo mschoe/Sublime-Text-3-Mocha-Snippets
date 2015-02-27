@@ -1,3 +1,4 @@
+![works badge](https://cdn.rawgit.com/nikku/works-on-my-machine/master/badge.svg)
 # Sublime Text 3 Mocha Snippets
 
 ## Install
